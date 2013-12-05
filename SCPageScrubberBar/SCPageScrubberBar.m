@@ -10,7 +10,7 @@
 #import "SCCalloutView.h"
 #import <QuartzCore/QuartzCore.h>
 
-#define kSCDotImageSpacing 10.0f
+#define kSCDotImageSpacing 30.0f
 
 @interface SCPageScrubberBar ()
 @property (nonatomic, strong) UIImage* dotsImage;
